@@ -1,4 +1,6 @@
-# Simple-Linear-regression-for-stock-price-
+# Simple-Linear-regression-for-stock-prices
+img[Plot screenshot](Screenshot 2025-07-13 175339.png)
+
 Just a simple linear regression model used to predict the stock price of a given ticker , for a given period or date interval. 
 
 ## Metrics for evaluations : 
